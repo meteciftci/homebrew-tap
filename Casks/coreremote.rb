@@ -1,6 +1,6 @@
 cask "coreremote" do
-  version "1.3.0"
-  sha256 "d12267e55e26ddaf6412cafb58149732a3c85c8d6b6e3c346c1a86efadd73ebd"
+  version "1.3.1"
+  sha256 "841fbea0c1e05a73cf1d0c97de4db5c610c35bc429db90695b7a1dbf1d50d7ab"
 
   url "https://github.com/meteciftci/core-remote/releases/download/v#{version}/CoreRemote-#{version}.zip"
   name "CoreRemote"
