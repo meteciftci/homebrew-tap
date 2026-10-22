@@ -28,5 +28,6 @@ cask "coreremote" do
     "~/Library/Application Support/CoreRemote",
     "~/Library/Logs/CoreRemote",
     "~/Library/Preferences/com.meteciftci.CoreRemote.plist",
+    "~/Library/Saved Application State/com.meteciftci.CoreRemote.savedState",
   ]
 end
